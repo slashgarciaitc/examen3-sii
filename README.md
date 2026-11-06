@@ -1,5 +1,7 @@
 # SII ITC - Examen 3
 
+Publicado en: https://examen3-sii.vercel.app (administración en https://examen3-sii.vercel.app/admin)
+
 Aplicación web que consume la API del SII del Instituto Tecnológico de Celaya para que el alumno inicie sesión y consulte su perfil, calificaciones, kardex y horario.
 
 ## Tecnología
