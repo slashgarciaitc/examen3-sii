@@ -1,5 +1,7 @@
 # SII ITC - Examen 3
 
+Saúl García Hernández (16030598) · Tópicos de Desarrollo Web · Instituto Tecnológico de Celaya
+
 Publicado en: https://examen3-sii.vercel.app (administración en https://examen3-sii.vercel.app/admin)
 
 Aplicación web que consume la API del SII del Instituto Tecnológico de Celaya para que el alumno inicie sesión y consulte su perfil, calificaciones, kardex y horario.
