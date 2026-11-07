@@ -43,3 +43,5 @@ next-env.d.ts
 
 # archivo que genera next dev para agentes
 AGENTS.md
+
+capturas/originales/

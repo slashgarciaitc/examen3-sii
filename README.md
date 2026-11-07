@@ -48,4 +48,34 @@ Abrir http://localhost:3000 (alumnos) y http://localhost:3000/admin (administrac
 
 ## Capturas
 
-Pendiente.
+Inicio de sesión con credenciales incorrectas:
+
+![Login](capturas/login.png)
+
+Inicio con los datos del perfil y la trayectoria por semestre:
+
+![Inicio](capturas/inicio.png)
+
+Calificaciones del semestre actual:
+
+![Calificaciones](capturas/calificaciones.png)
+
+Kardex agrupado por semestre:
+
+![Kardex](capturas/kardex.png)
+
+Horario (el SII todavía no tiene horas asignadas para este periodo):
+
+![Horario](capturas/horario.png)
+
+Tutorías: registro como asesor y su estado en "Mis tutorías":
+
+![Ofrecer asesoría](capturas/tutorias-ofrecer.png)
+
+![Mis tutorías](capturas/tutorias-mias.png)
+
+Panel de administración:
+
+![Login de administración](capturas/admin-login.png)
+
+![Administración](capturas/admin.png)
